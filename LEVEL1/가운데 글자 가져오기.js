@@ -10,3 +10,14 @@ function solution(s) {
     
     return answer;
 }
+
+
+
+// 조금 더 간단하게 
+
+function solution(s) {
+    var answer = '';
+    var half = Math.floor(s.length/2)
+    
+    return (s.length % 2 ===0) ? answer = s[half-1] + s[half] : answer = s[half];
+}
