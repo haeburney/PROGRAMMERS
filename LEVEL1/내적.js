@@ -14,3 +14,8 @@ function solution(a, b) {
 function solution(a, b) {
     return a.reduce((acc, _, i) => acc += a[i] * b[i], 0);
 }
+
+function solution(a, b) {
+    var answer = a.reduce((acc, cur, idx) => acc += cur*b[idx], 0)
+    return answer;
+}
