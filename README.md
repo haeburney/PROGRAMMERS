@@ -64,6 +64,7 @@
 - [서울에서 김서방 찾기](https://github.com/haeburney/PROGRAMMERS/blob/main/LEVEL1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.js) <br>
 - [성격 유형 검사하기](https://github.com/haeburney/PROGRAMMERS/blob/main/LEVEL1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.js) <br>
 - [수박수박수박수박수박수?](https://github.com/haeburney/PROGRAMMERS/blob/main/LEVEL1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.js) <br>
+- [숫자 문자열과 영단어] (https://github.com/haeburney/PROGRAMMERS/blob/main/LEVEL1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.java) <br>
 
 <br>
  
