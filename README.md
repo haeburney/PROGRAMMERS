@@ -119,7 +119,7 @@
 ## LEVEL0
 - [분수의 덧셈](https://github.com/haeburney/PROGRAMMERS/blob/main/LEVEL0/%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88.js) <br>
 - [최빈값 구하기](https://github.com/haeburney/PROGRAMMERS/blob/main/LEVEL0/%EC%B5%9C%EB%B9%88%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) <br>
-[]()
+- [외계행성의 나이](https://github.com/haeburney/PROGRAMMERS/blob/main/LEVEL0/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%EB%82%98%EC%9D%B4.java) <br>
 []()
 []()
 []()
